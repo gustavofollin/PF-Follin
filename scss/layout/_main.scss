@@ -1,0 +1,28 @@
+main{
+    section{
+         h1{
+            text-align: center;
+            color: rgba(255, 30, 0, 0.815);
+            font-size: 50px;
+            margin-top: 2px;
+            margin-bottom: 3px;
+            display: flex;
+         }
+         h2{
+            color: black;
+            font-size: 2rem;
+            margin-top: 10px;
+            margin-bottom: 6px;
+            display: flex;
+         }
+         p{
+            color: black;
+            font-size: 19px
+         }
+         img{
+            width: 34rem;
+            height: 20rem;
+            display: flex;
+         }
+    }
+}
