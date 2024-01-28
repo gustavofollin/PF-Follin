@@ -12,4 +12,19 @@ header div img {
   height: 4rem;
 }
 
+footer h4 {
+  text-align: right;
+}
+footer ul li {
+  list-style: none;
+  text-align: right;
+  text-decoration: none;
+}
+footer ul li a {
+  text-decoration: none;
+}
+footer ul li a:hover {
+  color: red;
+}
+
 /*# sourceMappingURL=style.css.map */
