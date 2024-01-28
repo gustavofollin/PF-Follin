@@ -1,3 +1,15 @@
+body {
+  background-color: rgba(143, 143, 143, 0.692);
+  font-family: "Saira Extra Condensed", sans-serif;
+}
 
+header {
+  border-bottom: 1px solid red;
+  padding: 1px;
+}
+header div img {
+  width: 10rem;
+  height: 4rem;
+}
 
 /*# sourceMappingURL=style.css.map */
