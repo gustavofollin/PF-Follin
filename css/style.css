@@ -25,7 +25,6 @@ main section h2 {
   font-size: 2rem;
   margin-top: 10px;
   margin-bottom: 6px;
-  display: flex;
 }
 main section p {
   color: black;
@@ -34,7 +33,6 @@ main section p {
 main section img {
   width: 34rem;
   height: 20rem;
-  display: flex;
 }
 
 footer {
