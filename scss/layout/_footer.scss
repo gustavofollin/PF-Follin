@@ -3,18 +3,25 @@ footer{
         text-align: right;
         
     }
-    ul{
-        li{
-            a{
+    section{
+        div{
+
+                a{
+                    text-decoration: none;
+                    &:hover{color: red;}
+                }
+                list-style: none;
+                text-align: center;
                 text-decoration: none;
-                &:hover{color: red;}
+                display: flex;
+                justify-content: space-between;
             }
-            list-style: none;
-            text-align: right;
-            text-decoration: none;
+            
         }
-        
-    }
-    margin-top: 1px;
-    border-top: 1px red solid;
+        margin-top: 1px;
+        border-top: 1px red solid;
 }
+    
+
+
+  
